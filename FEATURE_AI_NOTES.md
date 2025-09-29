@@ -1,5 +1,1 @@
-Basic social media app implemented with posts, likes, and user names. Features include:
-- Post creation
-- Username customization
-- Like functionality
-- Responsive design
+Added light/dark theme toggle with context and styling. Theme persists in component state and affects all UI elements.
