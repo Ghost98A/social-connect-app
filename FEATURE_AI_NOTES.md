@@ -1,1 +1,1 @@
-Added light/dark theme toggle with context and styling. Theme persists in component state and affects all UI elements.
+Added modern styling with CSS variables, smooth transitions, glassmorphism effects, and better typography using Inter font. The UI now has better spacing, animations, and a more polished look while maintaining the same functionality.
